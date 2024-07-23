@@ -56,4 +56,5 @@ pipeline {
                     //pwsh 'nuget push ./%API_VERSION%/nugets/*.nupkg -ApiKey AzureDevOps -Source AzureDevOps -ConfigFile ./nuget.config'
                 }
         }
+    }
 }
