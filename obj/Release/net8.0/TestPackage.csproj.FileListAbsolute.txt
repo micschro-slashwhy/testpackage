@@ -1,0 +1,11 @@
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/bin/Release/net8.0/TestPackage.deps.json
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/bin/Release/net8.0/TestPackage.dll
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/bin/Release/net8.0/TestPackage.pdb
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.AssemblyInfoInputs.cache
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.AssemblyInfo.cs
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.csproj.CoreCompileInputs.cache
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.dll
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/refint/TestPackage.dll
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/TestPackage.pdb
+/Users/mschroeder/RiderProjects/amazone/test-package/TestPackage/obj/Release/net8.0/ref/TestPackage.dll
