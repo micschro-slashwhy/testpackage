@@ -9,7 +9,7 @@ pipeline {
     
     agent {
         docker {
-            image 'mcr.microsoft.com/dotnet/sdk:8.0-windowsservercore-ltsc2019'
+            image 'mcr.microsoft.com/dotnet/sdk:8.0'
             label 'docker'
         }
     }
